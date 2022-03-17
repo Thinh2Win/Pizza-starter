@@ -6,14 +6,14 @@
         "pepperoni"
       ],
       "rank": 2,
-      "orders": 10 
+      "orders": 10
     },
     {
       "toppings": [
         "mozzarella cheese"
       ],
       "rank": 1,
-      "orders": 30 
+      "orders": 30
     },
     {
       "toppings": [
@@ -24,7 +24,7 @@
         "pineapple"
       ],
       "rank": 3,
-      "orders": 5 
+      "orders": 5
     },
     {
       "toppings": [
@@ -32,7 +32,7 @@
         "ham"
       ],
       "rank": 4,
-      "orders": 2 
+      "orders": 2
     }
   ]
 }
